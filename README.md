@@ -1,1 +1,1 @@
-# Write_-_Clear_Text_With_JS
+# Write_And_Clear_Text_With_JS
