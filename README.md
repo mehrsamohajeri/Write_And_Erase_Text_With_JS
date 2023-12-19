@@ -1,4 +1,4 @@
-# Write_And_Clear_Text_With_JS
+# Write_And_Erase_Text_With_JS
 
 **If you want to know how to make a sample text that can be written and erased by itself, please check out my code ♥️👀**
 
