@@ -2,7 +2,7 @@
 
 **If you want to know how to make a sample text that can be written and erased by itself, please check out my code ♥️👀**
 
-
+https://github.com/Mehrsa-Mohajeri-Developer/Write_And_Erase_Text_With_JS/assets/145048780/cf5243bb-d43a-47ef-b183-9016c6940de5
 
 - 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Write_And_Erase_Text_With_JS/)
   
