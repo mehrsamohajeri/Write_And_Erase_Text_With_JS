@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/Write_And_Erase_Text_With_JS/assets/145048780/cf5243bb-d43a-47ef-b183-9016c6940de5
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Write_And_Erase_Text_With_JS/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Write_And_Erase_Text_With_JS/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
